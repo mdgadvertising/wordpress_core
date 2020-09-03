@@ -6,6 +6,8 @@
 		"blog",
 		"cms"
 	],
+	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"homepage": "https://wordpress.org/",
 	"license": "GPL-2.0-or-later",
 	"authors": [
