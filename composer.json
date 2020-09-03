@@ -6,7 +6,6 @@
 		"blog",
 		"cms"
 	],
-	"type": "wordpress_core",
 	"homepage": "https://wordpress.org/",
 	"license": "GPL-2.0-or-later",
 	"authors": [
